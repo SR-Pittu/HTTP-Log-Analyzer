@@ -1,0 +1,6 @@
+/index.html 4
+/login 2
+/about.html 1
+/checkout 1
+/contact.html 1
+/products.html 1

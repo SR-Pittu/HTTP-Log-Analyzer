@@ -1,0 +1,59 @@
+{
+  "total_requests": 10,
+  "unique_ips": 9,
+  "top_url": "/index.html",
+  "status_counts": {
+    "200": 7,
+    "403": 1,
+    "404": 1,
+    "500": 1
+  },
+  "method_counts": {
+    "GET": 7,
+    "POST": 3
+  },
+  "bytes_total": 8640,
+  "avg_bytes": 864,
+  "bytes_per_status": {
+    "200": 7808,
+    "403": 512,
+    "404": 256,
+    "500": 64
+  },
+  "url_counts": {
+    "/about.html": 1,
+    "/checkout": 1,
+    "/contact.html": 1,
+    "/index.html": 4,
+    "/login": 2,
+    "/products.html": 1
+  },
+  "top_3_urls": [
+    [
+      "/index.html",
+      4
+    ],
+    [
+      "/login",
+      2
+    ],
+    [
+      "/about.html",
+      1
+    ]
+  ],
+  "top_3_ips": [
+    [
+      "192.168.0.1",
+      2
+    ],
+    [
+      "192.168.0.2",
+      1
+    ],
+    [
+      "192.168.0.3",
+      1
+    ]
+  ]
+}
